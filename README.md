@@ -11,3 +11,5 @@ Aspnet:https://github.com/aspnet
 
 http://sourceforge.net/projects/visualstudioscan/
 http://dwarfstd.org/
+
+https://android.googlesource.com/platform/manifest/
