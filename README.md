@@ -24,3 +24,6 @@ $ git clone https://android.googlesource.com/kernel/goldfish.git
 目前新版本的基本上只要下goldfish.git就可以了，goldfish就是android的kernel。
 
 Android源码：http://source.android.com/source/downloading.html
+
+
+http://www.cl.cam.ac.uk/~srk31/software/malloc_hooks.c
